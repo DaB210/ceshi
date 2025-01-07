@@ -1,0 +1,1 @@
+import{_ as o,c as t,a,o as n}from"./index-DvHH9GTW.js";const s={name:"AboutView"};function r(c,e,u,l,p,i){return n(),t("div",null,e[0]||(e[0]=[a("h1",null,"About Page",-1)]))}const d=o(s,[["render",r]]);export{d as default};
